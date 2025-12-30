@@ -1,6 +1,6 @@
 const Contact = () => {
   return (
-    <section id="contact" className="section">
+    <section id="contact" className="section reveal">
       <h3>Contact</h3>
       <p>Open to frontend internships and junior roles.</p>
       <p>Email: rudra@email.com</p>
